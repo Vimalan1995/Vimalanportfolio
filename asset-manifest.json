@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Vimalanportfolio/static/js/main.3698fd85.chunk.js",
-    "main.js.map": "/Vimalanportfolio/static/js/main.3698fd85.chunk.js.map",
+    "main.js": "/Vimalanportfolio/static/js/main.94e63135.chunk.js",
+    "main.js.map": "/Vimalanportfolio/static/js/main.94e63135.chunk.js.map",
     "runtime-main.js": "/Vimalanportfolio/static/js/runtime-main.47d542a9.js",
     "runtime-main.js.map": "/Vimalanportfolio/static/js/runtime-main.47d542a9.js.map",
-    "static/js/2.e811d4b1.chunk.js": "/Vimalanportfolio/static/js/2.e811d4b1.chunk.js",
-    "static/js/2.e811d4b1.chunk.js.map": "/Vimalanportfolio/static/js/2.e811d4b1.chunk.js.map",
+    "static/js/2.0f506893.chunk.js": "/Vimalanportfolio/static/js/2.0f506893.chunk.js",
+    "static/js/2.0f506893.chunk.js.map": "/Vimalanportfolio/static/js/2.0f506893.chunk.js.map",
     "index.html": "/Vimalanportfolio/index.html",
-    "static/js/2.e811d4b1.chunk.js.LICENSE.txt": "/Vimalanportfolio/static/js/2.e811d4b1.chunk.js.LICENSE.txt",
+    "static/js/2.0f506893.chunk.js.LICENSE.txt": "/Vimalanportfolio/static/js/2.0f506893.chunk.js.LICENSE.txt",
     "static/media/Ignite.ccc82b31.png": "/Vimalanportfolio/static/media/Ignite.ccc82b31.png",
     "static/media/Music.a1ad4a77.png": "/Vimalanportfolio/static/media/Music.a1ad4a77.png",
     "static/media/port.dfb87a0b.png": "/Vimalanportfolio/static/media/port.dfb87a0b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.47d542a9.js",
-    "static/js/2.e811d4b1.chunk.js",
-    "static/js/main.3698fd85.chunk.js"
+    "static/js/2.0f506893.chunk.js",
+    "static/js/main.94e63135.chunk.js"
   ]
 }
